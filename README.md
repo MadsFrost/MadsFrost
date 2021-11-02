@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Mads Frost
-I'm currently a Software Developer and have a huge passion for GitHub. I'm always looking for people to collaborate with and learn from. These are my projects
+I'm currently working as a Software Developer and have a huge passion for GitHub collaboration. I'm always looking for people to learn from and with. These are my projects
 
 <!--
 **MadsFrost/MadsFrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
