@@ -1,6 +1,6 @@
 ### Hi, I'm Mads 👋
 
-I'm a 22 year old guy from Oslo, Norway working on innovate great solutions to modern-day problems.
+I'm a 22 year old Software Engineer, currently based in Copenhagen, Denmark. I strive to innovate great solutions to modern-day problems.
 
 ##### Personal projects I'm currently working on and maintaining
 (WIP)
