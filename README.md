@@ -1,4 +1,12 @@
-### Hi there 👋 I'm Mads Frost
-I'm currently working as a Software Developer and have a huge passion for GitHub collaboration. I'm always looking for people to learn from and with. Below you can find some of my open source projects:
+### Hi, I'm Mads 👋
 
+I'm a 22 year old guy from Oslo, Norway working on innovate great solutions to modern-day problems.
 
+##### Personal projects I'm currently working on and maintaining
+(WIP)
+
+##### Catch up to me on:
+* 📸 Posting pictures on <a href="https://www.instagram.com/madsafrost/">Instagram</a>
+* 🤵 Connect with me on <a href="https://www.linkedin.com/in/madsafrost/">LinkedIn</a>
+
+###### Other than that, you can check out my pretty outdated <a href="https://benjaminakar.com/">portfolio</a>.
