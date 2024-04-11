@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madsfrost&label=Views&color=0040ff&style=plastic" alt="madsfrost" /> </p>
 </div>
 
-- 🔭 I’m currently working on [StreamValley](https://github.com/MadsFrost/StreamValley)
+- 🔭 I’m currently working on [Tweak](https://github.com/MadsFrost/Tweak)
 
 - 🌱 I’m currently learning **NextJS & Microservices**
 
