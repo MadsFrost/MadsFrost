@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Tweak](https://github.com/MadsFrost/Tweak)
 
-- 🌱 I’m currently learning **NextJS & Microservices**
+- 🌱 I’m currently learning **Monorepo's & Commitizen**
 
 - 💬 Ask me about **ReactJS, TypeScript and UI components**
 
