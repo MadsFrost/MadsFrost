@@ -2,8 +2,6 @@
 <h3 align="center">A passionate and opinionated SWE from Copenhagen, Denmark.</h3>
 <div align="center">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madsfrost&show_icons=true&locale=en" alt="madsfrost" />
-<p align="left">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madsfrost&label=Views&color=0040ff&style=plastic" alt="madsfrost" /> </p>
 </div>
 
 - 💬 Ask me about **ReactJS, TypeScript and UI components**
