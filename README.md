@@ -1,27 +1,21 @@
 <h1 align="center">Hi 👋, I'm Mads Frost</h1>
-<h3 align="center">A passionate full-stack developer from Copenhagen, Denmark.</h3>
+<h3 align="center">A passionate and opinionated SWE from Copenhagen, Denmark.</h3>
 <div align="center">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madsfrost&show_icons=true&locale=en" alt="madsfrost" />
 <p align="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madsfrost&label=Views&color=0040ff&style=plastic" alt="madsfrost" /> </p>
 </div>
 
-- 🔭 I’m currently working on [Tweak](https://github.com/MadsFrost/Tweak)
-
-- 🌱 I’m currently learning **Monorepo's & Commitizen**
-
 - 💬 Ask me about **ReactJS, TypeScript and UI components**
 
 - 📫 How to reach me **madsanton31@gmail.com**
-
-- 📄 Know about my experiences [https://docdro.id/LuzpVch](https://docdro.id/LuzpVch)
 
 - ⚡ Fun fact **I have taken production down at least twice.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/madsafrost/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madsafrost/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/madsafrost/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/madsafrost/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/madsafrost/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madsafrost/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/madsafrost/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/madsafrost/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/madsanton31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="madsanton31" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/madsanton31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madsanton31" height="30" width="40" /></a>
 </p>
